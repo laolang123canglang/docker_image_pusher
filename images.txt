@@ -1,6 +1,8 @@
 nginx
 #支持私库
-langgenius/dify-sandbox:0.2.1
-semitechnologies/weaviate:1.19.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+langgenius/dify-api:0.6.10
+nginx:latest
+ubuntu/squid:latest
+redis:6-alpine
+postgres:15-alpine
