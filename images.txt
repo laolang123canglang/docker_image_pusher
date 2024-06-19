@@ -6,3 +6,4 @@ nginx:latest
 ubuntu/squid:latest
 redis:6-alpine
 postgres:15-alpine
+thingsboard/tb-cassandra:latest
