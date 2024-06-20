@@ -10,3 +10,4 @@ thingsboard/tb-cassandra:latest
 thingsboard/tb-edge:latest
 gitlab/gitlab-ce:latest
 1panel/maxkb:latest
+registry:latest
