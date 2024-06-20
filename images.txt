@@ -11,3 +11,4 @@ thingsboard/tb-edge:latest
 gitlab/gitlab-ce:latest
 1panel/maxkb:latest
 registry:latest
+metersphere/metersphere-ce-allinone:latest
