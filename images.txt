@@ -15,3 +15,4 @@ metersphere/metersphere-ce-allinone:latest
 clickhouse/clickhouse-server:latest
 postgres:12
 thingsboard/tb-edge:3.5.1EDGE
+huzhihui/kingbase:latest
