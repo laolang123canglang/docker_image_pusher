@@ -15,6 +15,7 @@ nginx
 #clickhouse/clickhouse-server:latest
 #postgres:12
 #thingsboard/tb-edge:3.5.1EDGE
-wephoon/kingbase:latest
-jboss/drools-workbench-showcase
-jboss/kie-server-showcase
+#wephoon/kingbase:latest
+#jboss/drools-workbench-showcase
+#jboss/kie-server-showcase
+mindsdb/mindsdb
