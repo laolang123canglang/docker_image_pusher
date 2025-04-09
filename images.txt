@@ -18,4 +18,5 @@ nginx
 #wephoon/kingbase:latest
 #jboss/drools-workbench-showcase
 #jboss/kie-server-showcase
-mindsdb/mindsdb
+#mindsdb/mindsdb
+n8nio/n8n
