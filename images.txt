@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #支持指定架构
 #langgenius/dify-api:0.6.10
@@ -19,4 +19,5 @@ nginx
 #jboss/drools-workbench-showcase
 #jboss/kie-server-showcase
 #mindsdb/mindsdb
-n8nio/n8n
+#n8nio/n8n
+mindsdb/mindsdb:fix-lightwood
