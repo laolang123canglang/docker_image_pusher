@@ -20,4 +20,6 @@
 #jboss/kie-server-showcase
 #mindsdb/mindsdb
 #n8nio/n8n
-mindsdb/mindsdb:fix-lightwood
+#mindsdb/mindsdb:fix-lightwood
+openproject/openproject
+
