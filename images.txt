@@ -21,5 +21,7 @@
 #mindsdb/mindsdb
 #n8nio/n8n
 #mindsdb/mindsdb:fix-lightwood
-openproject/community:latest
-
+# openproject/community:latest 失败
+ghcr.io/paperless-ngx/paperless-ngx:latest
+mariadb:10
+redis:7
